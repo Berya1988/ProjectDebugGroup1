@@ -38,4 +38,6 @@ public class Array {
         System.out.println("Max element: " + max);
         return max;
     }
+
+    void f(){}
 }
